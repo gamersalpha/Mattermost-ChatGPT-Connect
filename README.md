@@ -13,12 +13,12 @@ This application is designed to interface Mattermost, a team messaging software,
 1. Clone the repository or download the ZIP file.
 2. Install the required dependencies using pip:
 
-pip install openai requests
+```pip install openai requests```
 
 3. Set up the environment variables for your Mattermost and OpenAI API keys.
 4. Run the script using python:
 
-python script_name.py
+```python script_name.py```
 
 5. You can also schedule regular execution of the script using a task scheduler such as cron (Linux/Unix) or Task Scheduler (Windows).
 
